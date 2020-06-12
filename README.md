@@ -1,4 +1,6 @@
 # The Meaning of 'Statistically Significant Global Warming'
+This repository contains a MATLAB function that analyzes historical climate data to better understand the meaning of statistically significant climate change, and the time period needed to measure statistically significant results. The write up of the study is below. The data is not mine and not available in he repository.
+
 ## Introduction
 In early 2010, the BBC asked Phil Jones the director of the Climate Research Unit at the University of East Anglia (UK) “Do you agree that from 1995 to the present there has been no statistically-significant global warming?” and “Do you agree that from January 2002 to the present there has been statistically significant global cooling?”  Jones responded to the first:
 
